@@ -1,0 +1,6 @@
+﻿  OS4.cpp
+c:\users\asus\source\repos\os4\os4\os4.cpp(28): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 104 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OS4.vcxproj -> C:\Users\Asus\source\repos\OS4\Release\OS4.exe

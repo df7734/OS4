@@ -1,0 +1,3 @@
+﻿  OS4.cpp
+c:\users\asus\source\repos\os4\os4\os4.cpp(28): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS4.vcxproj -> C:\Users\Asus\source\repos\OS4\Debug\OS4.exe
